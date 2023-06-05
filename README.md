@@ -15,7 +15,8 @@ Testing Augmentation technique which, starting from tests recorded with Selenium
 <p float="left">
 <a href="https://www.oracle.com/java/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-java-is-a-general-purpose-programming-language-that-is-class-based-logo-shadow-tal-revivo.png" height="50"></a>
 <a href="https://www.selenium.dev/"><img src="https://img.icons8.com/fluency/512/selenium-test-automation.png" height="50"></a>
-<a href="https://maven.apache.org/"><img src="[https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-50/apache-maven-50.png](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/510px-Apache_Maven_logo.svg.png)" height="50"></a>
+<a href="https://maven.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/510px-Apache_Maven_logo.svg.png" height="50"></a>
+<a href="https://junit.org/junit5/"><img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/06/junit5-banner.png?w=982&ssl=1" height="50"></a>
 </p>
 
 
